@@ -23,4 +23,4 @@ python ChessGame.py
 <img src="https://github.com/userabhibhullar/python-mini-project/blob/main/IMG/chess.jpg" width=70% height=70%>![alt text]
 
 ## *Author Name*
-[Abhi Bhullar](https://github.com/userabhibhullar)
+[Praneeth Kulal](https://github.com/PKulal)
